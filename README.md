@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhinavRajput-blackstar
+- 👋 Hi, I’m @AbhinavRajput
 - 👀 I’m interested in exploring new things, coding, techie
  stuff
 - 🌱 I’m currently learning Electronics and telecommunication
